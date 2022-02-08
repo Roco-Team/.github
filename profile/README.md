@@ -9,4 +9,4 @@ Quick links
 
 > <a href="http://w.roco.ml">Navigation Page</a>
 
-<img align="right" src="https://roco.work/az-r.png" width="32"/>
+<img align="right" src="https://roco.work/az-r.png" width="32%"/>

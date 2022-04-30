@@ -7,6 +7,8 @@ Quick links
 
 > <a href="https://announce.rocoawa.com">Team announcements & updates</a>
 
+> <a href="https://bbs.rocoawa.com">Official Forum</a>
+
 > <a href="https://projects.rocoawa.com">Projects</a>
 
 > <a href="http://w.roco.ml">Navigation Page</a>
